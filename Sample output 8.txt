@@ -1,0 +1,15 @@
+Students scoring above 80:
+{'name': 'Kiran', 'age': 23, 'department': 'MCA', 'marks': 85}
+{'name': 'Ravi', 'age': 22, 'department': 'MCA', 'marks': 90}
+{'name': 'Anusha', 'age': 22, 'department': 'BCA', 'marks': 92}
+
+MCA Students:
+{'name': 'Kiran', 'age': 23, 'department': 'MCA', 'marks': 85}
+{'name': 'Ravi', 'age': 22, 'department': 'MCA', 'marks': 90}
+{'name': 'Suresh', 'age': 24, 'department': 'MCA', 'marks': 65}
+
+Students aged 22 or above:
+{'name': 'Kiran', 'age': 23, 'department': 'MCA', 'marks': 85}
+{'name': 'Ravi', 'age': 22, 'department': 'MCA', 'marks': 90}
+{'name': 'Suresh', 'age': 24, 'department': 'MCA', 'marks': 65}
+{'name': 'Anusha', 'age': 22, 'department': 'BCA', 'marks': 92}
